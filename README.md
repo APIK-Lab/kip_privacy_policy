@@ -35,12 +35,13 @@ APIK is the data controller of personal data collected on our app and services i
 |Creation and management of your customer account|Data of the account creator<br /><br />(KIP or trusted third party)|Execution of a contract|Until you request deletion of the account or no later than 3 years after your last contact with us|
 ||Profile data|||
 |Running the geolocation service of the KIP app|Identification data of the KIP user.<br /><br />Location data of the KIP user|Execution of a contract|Location data from a past activity will be retained for 14 days, unless the data is subject to a law enforcement request. <br /><br />Location data from an ongoing activity will be retained until the activity is completed. |
-|To answer and solve your requests|Identification data of the KIP user.<br /><br />Location data of the KIP user|Execution of a contract|Until your application or request is closed|
-|For marketing purposes|Identification data of the KIP user.<br /><br />Location data of the KIP user <br><br>Profil Data<br>Communication Data |Your consent|Until you withdraw your consent or at the latest 3 years after your last contact with us|
-|To manage our relationship with you|Identification data of the KIP user.<br /><br />|Our legitimate interest|Until you request deletion of the account or no later than 3 years after your last contact with us|
-||Profil data|||
-|To ensure that you can exercise your rights (as listed below)|Identification data of the KIP user.<br /><br /> |Legal obligation|Until you request deletion of the account or no later than 3 years after your last contact with us|
-|To assert and defend the rights of the data controller or third parties before the judicial authorities|Identification data of the KIP user.<br /><br /><br>KIP user location data <br><br>Communication data|Our legitimate interest|Until the end of the legal prescription period - Article L110.4 of the Commercial Code|
+|Execution of the trusted third party alert service|Identification data of the K-IP beacon holder<br /><br />Identification data of the trusted third party<br /><br />Location data of the K-IP beacon holder|Execution of a contract|As long as the trusted third party is registered on the Application|
+|To answer and solve your requests|Data of the account creator (K-IP beacon holder or trusted third party)|Execution of a contract|Until your application or request is closed|
+|For marketing purposes|Account creator<br><br>identification data (K-IP beacon holder or trusted third party) <br><br>Profil Data<br>Communication Data |Your consent|Until you withdraw your consent or at the latest 3 years after your last contact with us|
+|To manage our relationship with you|Data of the account creator (K-IP beacon holder or trusted third party)|Our legitimate interest|Until you request deletion of the account or no later than 3 years after your last contact with us|
+||Profile data|||
+|To ensure that you can exercise your rights (as listed below)|Data of the account creator (K-IP beacon holder or trusted third trusted third party) |Legal obligation|Until you request deletion of the account or no later than 3 years after your last contact with us|
+|To assert and defend the rights of the data controller or third parties before the judicial authorities|Account creator<br><br>identification data (K-IP beacon holder or trusted third party)<br><br>Location data of the K-IP beacon holder<br><br>Communication data|Our legitimate interest|Until the end of the legal prescription period - Article L110.4 of the Commercial Code|
 
 
 ## 2. Recipients of the data and subcontractors
